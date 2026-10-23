@@ -1,0 +1,102 @@
+{
+  "title": "Western Ave Sundown",
+  "artist": "Orion Music & Hanit Kamboj",
+  "key": "F# minor",
+  "tempo_bpm": 93.0,
+  "swing_ratio": 0.575,
+  "bars": 68,
+  "duration_s": 183.48,
+  "sections": [
+    {
+      "section": "intro",
+      "start_bar": 1,
+      "bars": 4,
+      "start_s": 0.0,
+      "end_s": 10.32
+    },
+    {
+      "section": "verse1",
+      "start_bar": 5,
+      "bars": 16,
+      "start_s": 10.32,
+      "end_s": 51.61
+    },
+    {
+      "section": "hook1",
+      "start_bar": 21,
+      "bars": 8,
+      "start_s": 51.61,
+      "end_s": 72.26
+    },
+    {
+      "section": "verse2",
+      "start_bar": 29,
+      "bars": 16,
+      "start_s": 72.26,
+      "end_s": 113.55
+    },
+    {
+      "section": "bridge",
+      "start_bar": 45,
+      "bars": 8,
+      "start_s": 113.55,
+      "end_s": 134.19
+    },
+    {
+      "section": "hook2",
+      "start_bar": 53,
+      "bars": 8,
+      "start_s": 134.19,
+      "end_s": 154.84
+    },
+    {
+      "section": "outro",
+      "start_bar": 61,
+      "bars": 8,
+      "start_s": 154.84,
+      "end_s": 175.48
+    }
+  ],
+  "progressions": {
+    "verse": [
+      "F#m9",
+      "Dmaj9",
+      "C#m7",
+      "Bm9",
+      "F#m9",
+      "Dmaj9",
+      "C#7sus",
+      "C#7"
+    ],
+    "hook": [
+      "F#m9",
+      "E",
+      "Dmaj9",
+      "C#7sus",
+      "F#m9",
+      "E",
+      "Dmaj9",
+      "C#7"
+    ],
+    "bridge": [
+      "Bm9",
+      "C#m7",
+      "Dmaj9",
+      "E",
+      "Bm9",
+      "C#7sus",
+      "F#m9",
+      "F#m9"
+    ],
+    "outro": [
+      "F#m9",
+      "Dmaj9",
+      "Bm9",
+      "C#7sus",
+      "F#m9",
+      "Dmaj9",
+      "F#m9",
+      "F#m9"
+    ]
+  }
+}
