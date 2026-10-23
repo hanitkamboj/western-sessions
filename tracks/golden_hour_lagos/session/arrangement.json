@@ -1,0 +1,59 @@
+{
+  "title": "Golden Hour Lagos",
+  "genre": "afro-fusion / afrobeats",
+  "key": "A minor",
+  "bpm": 108,
+  "swing": 0.54,
+  "bars": 72,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 8,
+      "start_s": 0.0,
+      "end_s": 17.78
+    },
+    {
+      "name": "verse1",
+      "start_bar": 9,
+      "bars": 16,
+      "start_s": 17.78,
+      "end_s": 53.33
+    },
+    {
+      "name": "hook1",
+      "start_bar": 25,
+      "bars": 8,
+      "start_s": 53.33,
+      "end_s": 71.11
+    },
+    {
+      "name": "verse2",
+      "start_bar": 33,
+      "bars": 16,
+      "start_s": 71.11,
+      "end_s": 106.67
+    },
+    {
+      "name": "bridge",
+      "start_bar": 49,
+      "bars": 8,
+      "start_s": 106.67,
+      "end_s": 124.44
+    },
+    {
+      "name": "hook2",
+      "start_bar": 57,
+      "bars": 8,
+      "start_s": 124.44,
+      "end_s": 142.22
+    },
+    {
+      "name": "outro",
+      "start_bar": 65,
+      "bars": 8,
+      "start_s": 142.22,
+      "end_s": 160.0
+    }
+  ]
+}

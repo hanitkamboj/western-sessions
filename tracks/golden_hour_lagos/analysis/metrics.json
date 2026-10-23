@@ -1,0 +1,39 @@
+{
+  "title": "Golden Hour Lagos",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "afro-fusion / afrobeats",
+  "key": "A minor",
+  "bpm": 108,
+  "bars": 72,
+  "duration_s": 167.0,
+  "vocal_lufs": -9.28,
+  "instrumental_lufs": -9.27,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 8.94,
+  "instrumental_crest": 8.93,
+  "stereo_correlation": 0.832,
+  "vocal_share_pct_of_rms": 6.0,
+  "vocal_level_db_below_mix": -13.3,
+  "bands": {
+    "20-60": -6.4,
+    "60-120": -6.4,
+    "120-250": -8.8,
+    "250-500": -7.0,
+    "500-1000": -10.5,
+    "1000-2000": -10.7,
+    "2000-4000": -16.7,
+    "4000-8000": -21.2,
+    "8000-16000": -24.4,
+    "16000-20000": -32.3
+  },
+  "sections": {
+    "intro": -11.17,
+    "verse1": -9.09,
+    "hook1": -8.05,
+    "verse2": -9.11,
+    "bridge": -10.16,
+    "hook2": -7.99,
+    "outro": -11.51
+  }
+}
