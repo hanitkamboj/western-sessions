@@ -1,0 +1,39 @@
+{
+  "title": "Lowrider Neon",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "modern West Coast / G-funk bounce",
+  "key": "F# minor",
+  "bpm": 98,
+  "bars": 68,
+  "duration_s": 173.53,
+  "vocal_lufs": -9.27,
+  "instrumental_lufs": -9.27,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 9.0,
+  "instrumental_crest": 9.0,
+  "stereo_correlation": 0.766,
+  "vocal_share_pct_of_rms": 6.0,
+  "vocal_level_db_below_mix": -13.1,
+  "bands": {
+    "20-60": -7.1,
+    "60-120": -6.4,
+    "120-250": -7.9,
+    "250-500": -8.0,
+    "500-1000": -10.3,
+    "1000-2000": -12.4,
+    "2000-4000": -13.2,
+    "4000-8000": -13.9,
+    "8000-16000": -19.2,
+    "16000-20000": -26.7
+  },
+  "sections": {
+    "intro": -11.08,
+    "verse1": -9.06,
+    "hook1": -8.66,
+    "verse2": -9.06,
+    "bridge": -10.35,
+    "hook2": -8.57,
+    "outro": -10.22
+  }
+}

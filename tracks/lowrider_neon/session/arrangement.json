@@ -1,0 +1,59 @@
+{
+  "title": "Lowrider Neon",
+  "genre": "modern West Coast / G-funk bounce",
+  "key": "F# minor",
+  "bpm": 98,
+  "swing": 0.575,
+  "bars": 68,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 4,
+      "start_s": 0.0,
+      "end_s": 9.8
+    },
+    {
+      "name": "verse1",
+      "start_bar": 5,
+      "bars": 16,
+      "start_s": 9.8,
+      "end_s": 48.98
+    },
+    {
+      "name": "hook1",
+      "start_bar": 21,
+      "bars": 8,
+      "start_s": 48.98,
+      "end_s": 68.57
+    },
+    {
+      "name": "verse2",
+      "start_bar": 29,
+      "bars": 16,
+      "start_s": 68.57,
+      "end_s": 107.76
+    },
+    {
+      "name": "bridge",
+      "start_bar": 45,
+      "bars": 8,
+      "start_s": 107.76,
+      "end_s": 127.35
+    },
+    {
+      "name": "hook2",
+      "start_bar": 53,
+      "bars": 8,
+      "start_s": 127.35,
+      "end_s": 146.94
+    },
+    {
+      "name": "outro",
+      "start_bar": 61,
+      "bars": 8,
+      "start_s": 146.94,
+      "end_s": 166.53
+    }
+  ]
+}
