@@ -1,0 +1,38 @@
+{
+  "title": "Rain on Vinyl",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "lo-fi jazz-hop",
+  "key": "C minor",
+  "bpm": 82,
+  "bars": 64,
+  "duration_s": 195.32,
+  "vocal_lufs": -9.27,
+  "instrumental_lufs": -9.27,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 9.21,
+  "instrumental_crest": 9.21,
+  "stereo_correlation": 0.829,
+  "vocal_share_pct_of_rms": 6.0,
+  "vocal_level_db_below_mix": -15.6,
+  "bands": {
+    "20-60": -7.0,
+    "60-120": -6.6,
+    "120-250": -7.5,
+    "250-500": -6.8,
+    "500-1000": -9.8,
+    "1000-2000": -16.3,
+    "2000-4000": -15.2,
+    "4000-8000": -15.1,
+    "8000-16000": -20.9,
+    "16000-20000": -30.4
+  },
+  "sections": {
+    "intro": -10.06,
+    "verse1": -8.99,
+    "hook1": -8.83,
+    "verse2": -8.96,
+    "outro": -10.04,
+    "coda": -11.62
+  }
+}

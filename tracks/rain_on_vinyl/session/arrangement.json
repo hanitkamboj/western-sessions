@@ -1,0 +1,52 @@
+{
+  "title": "Rain on Vinyl",
+  "genre": "lo-fi jazz-hop",
+  "key": "C minor",
+  "bpm": 82,
+  "swing": 0.6,
+  "bars": 64,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 4,
+      "start_s": 0.0,
+      "end_s": 11.71
+    },
+    {
+      "name": "verse1",
+      "start_bar": 5,
+      "bars": 16,
+      "start_s": 11.71,
+      "end_s": 58.54
+    },
+    {
+      "name": "hook1",
+      "start_bar": 21,
+      "bars": 8,
+      "start_s": 58.54,
+      "end_s": 81.95
+    },
+    {
+      "name": "verse2",
+      "start_bar": 29,
+      "bars": 16,
+      "start_s": 81.95,
+      "end_s": 128.78
+    },
+    {
+      "name": "outro",
+      "start_bar": 45,
+      "bars": 12,
+      "start_s": 128.78,
+      "end_s": 163.9
+    },
+    {
+      "name": "coda",
+      "start_bar": 57,
+      "bars": 8,
+      "start_s": 163.9,
+      "end_s": 187.32
+    }
+  ]
+}
