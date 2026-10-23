@@ -1,0 +1,39 @@
+{
+  "title": "Afterglow Protocol",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "melodic trap / trap-soul",
+  "key": "F minor",
+  "bpm": 144,
+  "bars": 80,
+  "duration_s": 140.33,
+  "vocal_lufs": -9.27,
+  "instrumental_lufs": -9.27,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 8.97,
+  "instrumental_crest": 8.97,
+  "stereo_correlation": 0.693,
+  "vocal_share_pct_of_rms": 5.5,
+  "vocal_level_db_below_mix": -16.5,
+  "bands": {
+    "20-60": -6.1,
+    "60-120": -5.5,
+    "120-250": -10.1,
+    "250-500": -9.2,
+    "500-1000": -8.8,
+    "1000-2000": -12.8,
+    "2000-4000": -14.6,
+    "4000-8000": -17.0,
+    "8000-16000": -19.7,
+    "16000-20000": -26.9
+  },
+  "sections": {
+    "intro": -10.54,
+    "verse1": -9.02,
+    "hook1": -8.63,
+    "verse2": -8.96,
+    "bridge": -9.91,
+    "hook2": -8.48,
+    "outro": -10.26
+  }
+}

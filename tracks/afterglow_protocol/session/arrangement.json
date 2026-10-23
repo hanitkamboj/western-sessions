@@ -1,0 +1,59 @@
+{
+  "title": "Afterglow Protocol",
+  "genre": "melodic trap / trap-soul",
+  "key": "F minor",
+  "bpm": 144,
+  "swing": 0.52,
+  "bars": 80,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 8,
+      "start_s": 0.0,
+      "end_s": 13.33
+    },
+    {
+      "name": "verse1",
+      "start_bar": 9,
+      "bars": 16,
+      "start_s": 13.33,
+      "end_s": 40.0
+    },
+    {
+      "name": "hook1",
+      "start_bar": 25,
+      "bars": 8,
+      "start_s": 40.0,
+      "end_s": 53.33
+    },
+    {
+      "name": "verse2",
+      "start_bar": 33,
+      "bars": 16,
+      "start_s": 53.33,
+      "end_s": 80.0
+    },
+    {
+      "name": "bridge",
+      "start_bar": 49,
+      "bars": 8,
+      "start_s": 80.0,
+      "end_s": 93.33
+    },
+    {
+      "name": "hook2",
+      "start_bar": 57,
+      "bars": 8,
+      "start_s": 93.33,
+      "end_s": 106.67
+    },
+    {
+      "name": "outro",
+      "start_bar": 65,
+      "bars": 16,
+      "start_s": 106.67,
+      "end_s": 133.33
+    }
+  ]
+}
