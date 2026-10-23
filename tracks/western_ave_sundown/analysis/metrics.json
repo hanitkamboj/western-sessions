@@ -1,0 +1,34 @@
+{
+  "duration_s": 183.48,
+  "sample_rate": 48000,
+  "bit_depth": 24,
+  "channels": 2,
+  "integrated_lufs": -9.63,
+  "true_peak_dbtp": -1.02,
+  "sample_peak_dbfs": -1.85,
+  "crest_db": 9.36,
+  "lra_lu": 2.86,
+  "stereo_correlation": 0.717,
+  "bands": {
+    "20-60": -7.8,
+    "60-120": -7.2,
+    "120-250": -6.9,
+    "250-500": -7.0,
+    "500-1000": -8.8,
+    "1000-2000": -14.5,
+    "2000-4000": -15.4,
+    "4000-8000": -15.7,
+    "8000-16000": -18.8,
+    "16000-20000": -28.5
+  },
+  "section_loudness": {
+    "intro": -10.95,
+    "verse1": -9.49,
+    "hook1": -8.89,
+    "verse2": -9.39,
+    "bridge": -10.62,
+    "hook2": -8.64,
+    "outro": -10.4
+  },
+  "spectral_centroid_hz": 672.5
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Paper Lanterns",
+  "genre": "boom-bap soul / instrumental hip-hop",
+  "key": "D minor",
+  "bpm": 87,
+  "swing": 0.56,
+  "bars": 68,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 4,
+      "start_s": 0.0,
+      "end_s": 11.03
+    },
+    {
+      "name": "verse1",
+      "start_bar": 5,
+      "bars": 16,
+      "start_s": 11.03,
+      "end_s": 55.17
+    },
+    {
+      "name": "hook1",
+      "start_bar": 21,
+      "bars": 8,
+      "start_s": 55.17,
+      "end_s": 77.24
+    },
+    {
+      "name": "verse2",
+      "start_bar": 29,
+      "bars": 16,
+      "start_s": 77.24,
+      "end_s": 121.38
+    },
+    {
+      "name": "bridge",
+      "start_bar": 45,
+      "bars": 8,
+      "start_s": 121.38,
+      "end_s": 143.45
+    },
+    {
+      "name": "hook2",
+      "start_bar": 53,
+      "bars": 8,
+      "start_s": 143.45,
+      "end_s": 165.52
+    },
+    {
+      "name": "outro",
+      "start_bar": 61,
+      "bars": 8,
+      "start_s": 165.52,
+      "end_s": 187.59
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Paper Lanterns",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "boom-bap soul / instrumental hip-hop",
+  "key": "D minor",
+  "bpm": 87,
+  "bars": 68,
+  "duration_s": 194.59,
+  "vocal_lufs": -9.97,
+  "instrumental_lufs": -9.98,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 9.63,
+  "instrumental_crest": 9.63,
+  "stereo_correlation": 0.815,
+  "vocal_share_pct_of_rms": 6.0,
+  "vocal_level_db_below_mix": -13.9,
+  "bands": {
+    "20-60": -7.8,
+    "60-120": -6.6,
+    "120-250": -6.7,
+    "250-500": -6.4,
+    "500-1000": -11.2,
+    "1000-2000": -17.9,
+    "2000-4000": -15.3,
+    "4000-8000": -15.0,
+    "8000-16000": -18.0,
+    "16000-20000": -28.0
+  },
+  "sections": {
+    "intro": -14.25,
+    "verse1": -9.71,
+    "hook1": -9.03,
+    "verse2": -9.56,
+    "bridge": -11.74,
+    "hook2": -8.89,
+    "outro": -11.21
+  }
+}
