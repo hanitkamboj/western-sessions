@@ -1,0 +1,59 @@
+{
+  "title": "Concrete Lullaby",
+  "genre": "drill",
+  "key": "G minor",
+  "bpm": 142,
+  "swing": 0.52,
+  "bars": 72,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 8,
+      "start_s": 0.0,
+      "end_s": 13.52
+    },
+    {
+      "name": "verse1",
+      "start_bar": 9,
+      "bars": 16,
+      "start_s": 13.52,
+      "end_s": 40.56
+    },
+    {
+      "name": "hook1",
+      "start_bar": 25,
+      "bars": 8,
+      "start_s": 40.56,
+      "end_s": 54.08
+    },
+    {
+      "name": "verse2",
+      "start_bar": 33,
+      "bars": 16,
+      "start_s": 54.08,
+      "end_s": 81.13
+    },
+    {
+      "name": "bridge",
+      "start_bar": 49,
+      "bars": 8,
+      "start_s": 81.13,
+      "end_s": 94.65
+    },
+    {
+      "name": "hook2",
+      "start_bar": 57,
+      "bars": 8,
+      "start_s": 94.65,
+      "end_s": 108.17
+    },
+    {
+      "name": "outro",
+      "start_bar": 65,
+      "bars": 8,
+      "start_s": 108.17,
+      "end_s": 121.69
+    }
+  ]
+}

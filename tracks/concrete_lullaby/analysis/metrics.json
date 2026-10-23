@@ -1,0 +1,39 @@
+{
+  "title": "Concrete Lullaby",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "drill",
+  "key": "G minor",
+  "bpm": 142,
+  "bars": 72,
+  "duration_s": 127.69,
+  "vocal_lufs": -9.26,
+  "instrumental_lufs": -9.26,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 8.99,
+  "instrumental_crest": 8.99,
+  "stereo_correlation": 0.687,
+  "vocal_share_pct_of_rms": 5.5,
+  "vocal_level_db_below_mix": -17.0,
+  "bands": {
+    "20-60": -5.1,
+    "60-120": -6.4,
+    "120-250": -10.0,
+    "250-500": -9.0,
+    "500-1000": -9.9,
+    "1000-2000": -12.3,
+    "2000-4000": -14.2,
+    "4000-8000": -16.4,
+    "8000-16000": -19.0,
+    "16000-20000": -26.1
+  },
+  "sections": {
+    "intro": -10.6,
+    "verse1": -9.06,
+    "hook1": -8.37,
+    "verse2": -9.08,
+    "bridge": -10.02,
+    "hook2": -8.33,
+    "outro": -10.63
+  }
+}
