@@ -1,0 +1,39 @@
+{
+  "title": "Velvet Static",
+  "artist": "Orion Music & Hanit Kamboj",
+  "genre": "neo-soul / future R&B",
+  "key": "Eb major",
+  "bpm": 84,
+  "bars": 64,
+  "duration_s": 188.86,
+  "vocal_lufs": -9.25,
+  "instrumental_lufs": -9.25,
+  "vocal_true_peak": -1.02,
+  "instrumental_true_peak": -1.02,
+  "vocal_crest": 8.89,
+  "instrumental_crest": 8.87,
+  "stereo_correlation": 0.756,
+  "vocal_share_pct_of_rms": 6.5,
+  "vocal_level_db_below_mix": -14.0,
+  "bands": {
+    "20-60": -8.2,
+    "60-120": -6.5,
+    "120-250": -6.8,
+    "250-500": -6.3,
+    "500-1000": -9.8,
+    "1000-2000": -15.4,
+    "2000-4000": -16.4,
+    "4000-8000": -18.6,
+    "8000-16000": -20.8,
+    "16000-20000": -26.5
+  },
+  "sections": {
+    "intro": -10.62,
+    "verse1": -9.37,
+    "hook1": -8.31,
+    "verse2": -9.15,
+    "bridge": -10.47,
+    "hook2": -8.29,
+    "outro": -9.96
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Velvet Static",
+  "genre": "neo-soul / future R&B",
+  "key": "Eb major",
+  "bpm": 84,
+  "swing": 0.58,
+  "bars": 64,
+  "sections": [
+    {
+      "name": "intro",
+      "start_bar": 1,
+      "bars": 4,
+      "start_s": 0.0,
+      "end_s": 11.43
+    },
+    {
+      "name": "verse1",
+      "start_bar": 5,
+      "bars": 16,
+      "start_s": 11.43,
+      "end_s": 57.14
+    },
+    {
+      "name": "hook1",
+      "start_bar": 21,
+      "bars": 8,
+      "start_s": 57.14,
+      "end_s": 80.0
+    },
+    {
+      "name": "verse2",
+      "start_bar": 29,
+      "bars": 16,
+      "start_s": 80.0,
+      "end_s": 125.71
+    },
+    {
+      "name": "bridge",
+      "start_bar": 45,
+      "bars": 8,
+      "start_s": 125.71,
+      "end_s": 148.57
+    },
+    {
+      "name": "hook2",
+      "start_bar": 53,
+      "bars": 8,
+      "start_s": 148.57,
+      "end_s": 171.43
+    },
+    {
+      "name": "outro",
+      "start_bar": 61,
+      "bars": 4,
+      "start_s": 171.43,
+      "end_s": 182.86
+    }
+  ]
+}
